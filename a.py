@@ -1,8 +1,5 @@
-"""
-000731577, Pranjal Chauhan
-This assignment is about machine learning techniques beyond supervised classification. Part A explores unsupervised clustering.
-"""
-#Elbow is between 4 and 6, so I'm choosing 5
+
+#I found the Elbow to be between 4 and 6, so I'm choosing 5 - at line 40
 import numpy as np
 from skimage import data
 from skimage import io
